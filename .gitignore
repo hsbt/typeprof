@@ -8,3 +8,4 @@ pkg/
 *.log
 .*.sw*
 *.dump
+/Gemfile.lock
